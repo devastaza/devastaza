@@ -1,4 +1,6 @@
-### Hi there 👋
+![my logo](https://github.com/devastaza/devastaza/blob/main/myLogo.png)
+## 👋 **Hello**!
+My name is Akbar Shirinli (_devastaza_). I'm a software engineer and game developer. 
 
 <!--
 **devastaza/devastaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
