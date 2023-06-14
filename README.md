@@ -3,7 +3,7 @@
 My name is Akbar Shirinli. I'm a software engineer and game developer. 
 
 ### Languages and Tools:
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=C%23&logoColor=6296CC)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
